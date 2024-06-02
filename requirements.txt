@@ -1,0 +1,8 @@
+ctransformers==0.2.5   # use for quantised model
+sentence-transformers==2.2.2
+pinecone-client
+langchain
+langchain_community
+flask
+
+-e .
