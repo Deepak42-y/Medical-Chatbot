@@ -4,11 +4,3 @@ Version: 0.0.1
 Author: Deepak Yadav
 Author-email: honestharry1980@gmail.com
 License-File: LICENSE.md
-Requires-Dist: numpy
-Requires-Dist: pandas
-Requires-Dist: ctransformers
-Requires-Dist: langchain
-Requires-Dist: streamlit
-Requires-Dist: sentence-transformers
-Requires-Dist: flask
-Requires-Dist: langchain_community
