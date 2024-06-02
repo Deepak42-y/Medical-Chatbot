@@ -1,0 +1,8 @@
+numpy
+pandas
+ctransformers
+langchain
+streamlit
+sentence-transformers
+flask
+langchain_community

@@ -1,5 +1,5 @@
-ctransformers==0.2.5   # use for quantised model
-sentence-transformers==2.2.2
+ctransformers  # use for quantised model
+sentence-transformers
 pinecone-client
 langchain
 langchain_community
